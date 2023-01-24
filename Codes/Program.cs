@@ -12,13 +12,6 @@
            int count = array.GetCountOfResArray();
            if(count!=0){array.PrintResultArray();}
            else {Console.WriteLine("Result array is empty");}
-           
-
-         
-           
-           
-
-
         }
     }
 }
